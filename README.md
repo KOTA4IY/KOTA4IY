@@ -9,7 +9,7 @@ my skills every day.
 
 ## 🔗 Links:
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://steamcommunity.com/profiles/76561199485840748/)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KOTA4IY)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KOTA4IY)
 
 ------------------------------------------------------------------------
